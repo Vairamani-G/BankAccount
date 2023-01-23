@@ -1,0 +1,9 @@
+ {
+    "Detailes" :[
+        {"UserName":"Dev","Email":"abc12@gmail.com","PhoneNumber":6369010664,"Password":123456},
+        {"UserName":"Sri","Email":"acb21@gmail.com","PhoneNumber":6397880664,"Password":198765},
+        {"UserName":"Abi","Email":"bca67@gmail.com","PhoneNumber":6369019628,"Password":456789},
+        {"UserName":"Lee","Email":"bac45@gmail.com","PhoneNumber":9585010664,"Password":257849},
+        {"UserName":"Pam","Email":"bca78@gmail.com","PhoneNumber":6388002264,"Password":258469}
+    ]
+}
